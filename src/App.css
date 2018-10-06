@@ -1,0 +1,50 @@
+.app{
+  
+}
+.room-detail-label{
+width:600px;
+height: auto;
+margin: 20px auto;
+color: blue;
+}
+.group-icon{
+font-size: 34px;
+}
+.room-label{
+
+}
+.room-people-label{
+    font-weight: bolder;
+}
+.room-container{
+width:600px;
+height: 250px;
+margin:  20px auto;
+border: 1px solid #d0d0d0;
+padding: 10px;
+}
+.room-count-detail{
+    height: 40px;
+    border-bottom: 1px solid #d0d0d0;
+    margin:40px 0px 0px;
+    color: blue
+}
+.adults-count-detail{
+    height: 40px;
+    border-bottom: 1px solid #d0d0d0;
+    margin:40px 0px 0px;
+    color: blue
+}
+.child-count-detail{
+    height: 40px;
+    margin:40px 0px 0px;
+    color: blue
+}
+.left-side-detail{
+    /* display: inline-block; */
+    float: left;
+}
+.right-side-detail{
+    /* display: inline-block; */
+    float: right;
+}
